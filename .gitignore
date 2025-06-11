@@ -30,3 +30,11 @@ target/maven-archiver/pom.properties
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 WebContent/META-INF/MANIFEST.MF
+dbdStatus/.settings/org.eclipse.core.resources.prefs
+dbdStatus/.settings/org.eclipse.jdt.core.prefs
+dbdStatus/.settings/org.eclipse.m2e.core.prefs
+dbdStatus/.settings/org.eclipse.wst.common.component
+dbdStatus/.settings/org.eclipse.wst.common.project.facet.core.xml
+dbdStatus/.settings/org.eclipse.wst.jsdt.ui.superType.container
+dbdStatus/.settings/org.eclipse.wst.jsdt.ui.superType.name
+dbdStatus/.settings/org.eclipse.wst.validation.prefs
